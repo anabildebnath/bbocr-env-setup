@@ -15,7 +15,8 @@ pip install shapely <br>
 
 
 # basic git commands
-To know which repository you are currently in: ### git remote -v <br>
+To know which repository you are currently in:
+### git remote -v <br>
 To check status of repository: ### git status <br>
 To clone a remote repository from github: ### git clone https://github.com/username/repository.git <br>
 To add the changes you want to commit to the staging area: ### git add . <br>
